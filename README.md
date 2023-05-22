@@ -1,5 +1,10 @@
 # OnlineGroceryStockMS
 System to maintain the DB for customers, staff, products, and sales.
+
+
+
+
+
 PROBLEM STATEMENT:
 A grocery store is facing challenges in managing their inventory, 
 purchase orders, and sales due to the inefficiencies and errors 
