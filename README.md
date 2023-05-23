@@ -1,4 +1,4 @@
-# OnlineGroceryStockMS
+# Online Grocery Stock Management System
 System to maintain the DB for customers, staff, products, and sales.
 
 
