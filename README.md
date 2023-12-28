@@ -1,6 +1,12 @@
 # Online Grocery Stock Management System
 System to maintain the DB for customers, staff, products, and sales.
 
+IT202 - Database Management Systems Course Project
+
+Contributors
+Rugung Daimary (2K21/IT/151)
+Ritik (2K21/IT/145)
+Rajnish(2K21/IT/139)
 
 
 
